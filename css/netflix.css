@@ -1,0 +1,329 @@
+body{
+    margin: 0%;
+    text-transform: capitalize;
+    background-color: rgb(35, 34, 34);
+}
+
+.back{
+    height: 550px;
+    width: 100%;
+    background-image: url(/image/netflix\ \ background.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: auto;
+    
+    margin-bottom: 7px;
+    
+}
+
+.content
+{text-align: center;
+    font-size: x-large;
+    
+    
+}
+div header button{
+    float: left;
+}
+.select{
+    float: right;
+    
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+    background-color: rgba(0, 0, 0, 0.519);
+    margin: 10px;
+    color: white;
+    border: 0px;
+}
+.select1{
+    float: right;
+    
+    border-radius: 10px;
+    height: 40px;
+    width: 100px;
+    background-color: rgba(223, 17, 17, 0.74);
+    margin: 10px;
+    color: white;
+    
+}
+.startbtn{
+    background-color: brown;
+    color: white;
+    border : 0px;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+   
+
+}
+.In{
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+   
+}
+
+
+.blurr{
+    height: 150px;
+    width: 200px;
+    margin-left: 10px;
+}
+/* block 2 */
+
+
+.s2back{
+
+    background-color: black;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    margin: 7px 0;
+    
+    
+}
+.content2{
+    /* border: 2px solid white; */
+    height: 200px;
+    width: 600px;
+    color: white;
+    margin-top: 130px;
+    margin-left: 200px;
+
+
+
+}
+.tv{
+/* 
+    border: 2px solid white; */
+    height: 400px;
+    width: 500px;
+    background-image: url(./image/tv.png);
+    background-repeat: no-repeat;
+    background-size: 500px 400px;
+    margin-top: 70px;
+    margin-left: 150px;
+    
+   
+}
+  .tv>img{
+    border: 2px solid white;
+    height: 200px;
+    width: 352px; 
+    margin-top: 90px;
+    margin-left: 72px;
+ 
+    
+} 
+/* block3 */
+.s3back{
+
+    background-color: black;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    margin: 7px 0;
+    
+}
+
+.content3{
+    /* border: 2px solid white; */
+    height: 200px;
+    width: 600px;
+    color: white;
+    margin-top: 130px;
+    margin-left: 150px;
+ 
+
+
+}
+.anim{
+  
+    display: flex;
+    flex-wrap: wrap;
+  
+    
+}
+.download{
+    
+    background-image: url(/image/mobile-netflix.jpg);
+    height: 500px;
+    width: 700px;
+}
+
+.box{
+    border : 4px solid rgb(70, 69, 69);
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 100px;
+    align-items: center;
+    height: 90px;
+    width: 470px;
+   
+   
+}
+.box1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.one{
+   
+    height: 100px;
+    width: 100px;
+ 
+}
+.one>img{
+    height: 90px;
+    width: 90px;
+}
+
+.two{
+    /* border: 2px solid white; */
+    height: 80px;
+    width: 189px;
+    color: white;
+    margin-left: 15px;
+  
+}
+
+
+.pd{
+    align-items: center;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.pd1{
+    align-items: center;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(25, 25, 207);
+}
+.three{ 
+    
+    /* border: 2px solid saddlebrown; */
+    height: 100px;
+    width: 100px;
+    margin-left: 60px;
+}
+.three video{  
+
+position: absolute;    
+     height: 100px;
+     width: 100px;
+     
+
+}
+
+/* s4 */
+.four{ 
+    display: flex;
+   color: white;
+   height: 500px;
+   width: 100%;
+   background-color: black;
+}
+.content4{
+    margin-top: 150px;
+    margin-left: 120px;
+    font-size: large;
+
+}
+.ghoul{
+    margin-top: 40px;
+    margin-left: 120px;
+    height: 100px;
+    width: 300px;
+}
+ .rs{
+    background-image: url(/image/ShockingIdolizedGossamerwingedbutterfly-max-1mb.gif);
+    height: 200px;
+    width: 500px;
+    background-repeat: no-repeat;
+}
+/* lastblock
+ */
+ .lastblock{
+    background-color: black;
+   
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 0;
+    margin-top: 7px;
+    
+   
+
+ }
+ .boxx{color: white;
+    font-size: x-large;
+    padding-left: 10px;
+    padding-top: 10px;
+   
+    border: 2px solid gray;
+    height: 60px;
+    width: 70%;
+    margin: 10px;
+    display: flex;
+    background-color: rgba(128, 128, 128, 0.345);
+    border: 0px;
+    border-radius: 5px;
+
+ }
+ .s{
+    margin-left: 660px;
+ }
+
+.boxx div{
+    width: 300px;
+    
+}
+.boxx span{
+    font-size: xx-large;
+}
+.lastblock p{
+    color: wheat;
+    font-size: larger;
+}
+.m button{
+    background-color: rgb(172, 18, 18);
+    border: 0px;
+    height: 30px;
+    border-radius: 5px;
+    
+
+}
+.m input{
+    background-color: rgba(128, 128, 128, 0.555);
+    border: 0px;
+    height:30px ;
+    width: 200px;
+    border-radius: 5px;
+}
+.footer{
+    background-color: black;
+    margin-top: 7px;
+    width: 100%;
+    padding: 50px 0;
+}
+.footer p{
+    color: white;
+    margin: 0;
+}
+
+.tab{
+    height: 200px;
+    width: 80%;
+    margin-left: 200px;
+}
+.tab a{
+    color: white;
+}
+
+
+
+
